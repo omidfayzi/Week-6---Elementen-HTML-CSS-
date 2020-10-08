@@ -1,0 +1,13 @@
+body {
+	background-color: lightgray;
+}
+.box-one { 
+	background-color: #EEE9D6;
+	border: 20px 
+	dashed #CB4238;
+	margin: 40px; 
+	margin-right: 1000px;
+	padding-left: 40px;
+	padding-bottom: 80px;
+	padding-right: 0px auto;
+}  
